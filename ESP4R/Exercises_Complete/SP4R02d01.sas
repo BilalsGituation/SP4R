@@ -34,7 +34,7 @@ data sp4r.Shelter;
 	;
 run;
 
-data sp4r.Shelter;
+data sp4r.Shelter2;
 	length Colour $ 10;
 	input Name $ Age  Weight  Colour $ Cats $ @@; 
 	datalines;
